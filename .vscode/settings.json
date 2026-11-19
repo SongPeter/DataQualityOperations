@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "D:\\Software\\env\\DataQualityOperations\\python.exe",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "python.sortImports.onSave": true,
+  "ruff.enable": true
+}
